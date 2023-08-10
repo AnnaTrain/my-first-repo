@@ -1,4 +1,4 @@
 welcome to my first git repo
 Learning Git OK
 We added this line in the update-readme branch
-It's a sunny outside today.
+It's a cloudy outside today.
