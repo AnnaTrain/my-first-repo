@@ -8,7 +8,7 @@ my-first-repo
 
 Git course
 
-#### Next expcted actions 
+### Next expected actions 
 
 Pull request
 We'll see how it works
